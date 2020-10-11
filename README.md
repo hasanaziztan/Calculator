@@ -1,2 +1,2 @@
 # Calculator
- Ffour operations 
+ Four operations 
